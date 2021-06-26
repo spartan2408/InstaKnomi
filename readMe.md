@@ -3,7 +3,7 @@
 
 Our WebApp named "INSTAKNOMI" , is a social media platform built on blockchain using ethereum protocol through smart contracts.
 
-## Prequisites;- 
+## Prequisites:- 
 1. NodeJs
 2. Truffle framework
 3. Solidity
