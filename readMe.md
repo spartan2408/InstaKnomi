@@ -1,4 +1,4 @@
-###```DECENTRALISED INSTAGRAM CLONE```###
+## ```DECENTRALISED INSTAGRAM CLONE```##
 
 
 Our WebApp named "INSTAKNOMI" , is a social media platform built on blockchain using ethereum protocol through smart contracts.
@@ -14,7 +14,7 @@ Our WebApp named "INSTAKNOMI" , is a social media platform built on blockchain u
 etc.
 
 
-##TO RUN:-
+## TO RUN:-
 
 1. Download the file from the repo.
 ```
