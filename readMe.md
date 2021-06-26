@@ -60,15 +60,15 @@ npm run start
 
 THANK YOU AND ENJOY!!
 
-AUTHORS:- 
+Authors:- 
 
-AMOGH.K 
+Amogh.K 
 
 email:- amoghkrish1@gmail.com 
 
 LinkedIn:- Amogh Krishna (PES University)
 
-SUHAS.S 
+Suhas.S 
 
 email:- suhassrb333@gmail.com 
 
