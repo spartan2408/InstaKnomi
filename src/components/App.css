@@ -1,0 +1,14 @@
+/* Styles go here */
+body {
+  font-family: playfair display;
+  background: #000000;
+  color:white;
+}
+.navbar-brand{
+  padding-left: 43%;
+  font-family: "Lucida Handwriting", cursive;
+
+}
+h2{
+  color: turquoise;
+}
