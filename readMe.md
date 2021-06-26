@@ -32,7 +32,7 @@ npm install
 
 5. Now run the ganache and open a quickstart workplace.
 
-6. Install [MetaMask] (https://metamask.io/) chrome extension and pin it.
+6. Install [MetaMask](https://metamask.io/) chrome extension and pin it.
 
 7. Create a ganache network in MetaMask looking at the respective chain id and url.
 
