@@ -70,7 +70,7 @@ LinkedIn:- Amogh Krishna (PES University)
 
 SUHAS.S 
 
-suhassrb333@gmail.com 
+email:- suhassrb333@gmail.com 
 
 LinkedIn:- Suhas Seshagiri (PES University)
 
