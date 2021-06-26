@@ -28,7 +28,7 @@ cd {directory_name}
 ```
 npm install
 ```
-4. Download [ganache] (https://www.trufflesuite.com/ganache) by clicking here.
+4. Download [ganache](https://www.trufflesuite.com/ganache) by clicking here.
 
 5. Now run the ganache and open a quickstart workplace.
 
