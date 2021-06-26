@@ -3,7 +3,7 @@
 
 Our WebApp named "INSTAKNOMI" , is a social media platform built on blockchain using ethereum protocol through smart contracts.
 
-## Prequisites:- 
+## Prequisites;- 
 1. NodeJs
 2. Truffle framework
 3. Solidity
@@ -32,11 +32,21 @@ npm install
 
 5. Now run the ganache and open a quickstart workplace.
 
-6. Install [MetaMask](https://metamask.io/) chrome extension and pin it.
+6. Install MetaMask chrome extension and pin it.
 
 7. Create a ganache network in MetaMask looking at the respective chain id and url.
 
 8. Import two accounts using the private key in ganache into the MetaMask chrome extension.
+	1. Go to import on the account icon on top-right corner
+		and click on "import"
+
+	![image](IMAGES/metamask.png)
+
+
+
+
+	2. In Ganache, click on the key icon and copy the private key ,and upload it to MetaMask
+	![image](IMAGES/image_ganache.png)
 
 9. Now run test command to check whether our smart contract is deploying without errors in ur cmd.
 ```
@@ -57,24 +67,28 @@ npm run start
 
 13. Now play around by uploading photos ,tipping around those posts you like and have fun.
 
+14. Here is the sample out of our project and the red box is where you tip 
+	![Output_image](IMAGES/output.jpg)
+
 
 THANK YOU AND ENJOY!!
 
-Authors:- 
+AUTHORS:- 
 
-Amogh.K 
+SUHAS.S 
 
-email:- amoghkrish1@gmail.com 
-
-LinkedIn:- Amogh Krishna (PES University)
-
-Suhas.S 
-
-email:- suhassrb333@gmail.com 
-
+Email:-suhassrb333@gmail.com 
 LinkedIn:- Suhas Seshagiri (PES University)
 
+
+AMOGH.K
+
+Email:- amoghkrish1@gmail.com 
+LinkedIn:- Amogh Krishna (PES University)
+
+
 WebAPP Logo Design by:-
+
 
 Sarthak Shambhat 
 
